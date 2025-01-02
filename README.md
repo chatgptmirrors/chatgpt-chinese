@@ -33,12 +33,12 @@
 
 ---
 
-# 哪些镜像网站值得一试？
+# 哪些镜像网站可以用？
 
 以下是一些经过测试的高效、稳定、靠谱的 ChatGPT 中文版镜像地址：
 
 1. [https://www.yixiaai.com/](https://www.yixiaai.com/)  
-   - **特色**：支持 GPT-4、AI 绘画，直接微信扫码登录即可使用。
+   - **特色**：支持 GPT-4、GPT-4o、GPT-o1、AI 绘画，直接微信扫码登录即可使用。
    - **推荐理由**：运营时间近两年，稳定性强。
 
 2. [https://chat.lify.vip/](https://chat.lify.vip/)  
